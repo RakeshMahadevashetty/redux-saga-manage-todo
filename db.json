@@ -1,0 +1,53 @@
+{
+  "category": {
+    "1": "DEVELOPMENT",
+    "2": "DEBUG",
+    "3": "RESEARCH",
+    "4": "DOCUMENTATION",
+    "5": "TRAINING"
+  },
+  "person": {
+    "1": "Rakesh",
+    "2": "Shetty",
+    "3": "Rocky",
+    "4": "QBustian"
+  },
+  "todoList": [
+    {
+      "title": "rakesh123",
+      "description": "shetty",
+      "category": "1",
+      "assignTo": "2",
+      "startDate": "2022-01-04",
+      "endDate": "2022-01-08",
+      "id": 1
+    },
+    {
+      "title": "rakesh",
+      "description": "shetty",
+      "category": "2",
+      "assignTo": "2",
+      "startDate": "2022-01-03",
+      "endDate": "2022-01-25",
+      "id": 3
+    },
+    {
+      "title": "rr",
+      "description": "134",
+      "category": "2",
+      "assignTo": "2",
+      "startDate": "2022-01-06",
+      "endDate": "2022-01-28",
+      "id": 5
+    },
+    {
+      "title": "rakesh",
+      "description": "cjcjc",
+      "category": "2",
+      "assignTo": "2",
+      "startDate": "2022-01-12",
+      "endDate": "2022-01-26",
+      "id": 6
+    }
+  ]
+}
